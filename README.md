@@ -1,7 +1,7 @@
 # CPM
 This repository is meant to publish codes relating to computations of aggregate packing densities and corresponding segregation potentials using the compressible packing model (CPM)
 
-This Mathematica code serves as a support resource for a manuscript targeted for a journal paper, titled: 
+This Mathematica code serves as a support resource for the initial draft of a manuscript targeted for a journal paper, titled: 
 "Prediction of Optimum Packing Density of Multi-sized Aggregates using Grading Models and Compressible Packing Model"
 By 
 Abduljalil Abdulnaser Abdulkader and Saheed Kolawole Adekunle
