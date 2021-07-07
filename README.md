@@ -4,7 +4,7 @@ This repository is meant to publish codes relating to computations of aggregate 
 This Mathematica code serves as a support resource for the initial draft of a manuscript targeted for a journal paper, titled: 
 "Prediction of Optimum Packing Density of Multi-sized Aggregates using Grading Models and Compressible Packing Model"
 By 
-Abduljalil Abdulnaser Abdulkader and Saheed Kolawole Adekunle
+Abduljalil Abdulnaser Abdulkader and Saheed Kolawole Adekunle,
 King Fahd University of Petroleum & Minerals, Dhahran-31261, Saudi Arabia.
 
 Some of the code lines contain direct references to the equation number in the raw manuscript for the above manuscript.
