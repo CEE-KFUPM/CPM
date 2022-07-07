@@ -12,5 +12,5 @@ Some of the code lines contain direct references to the equation number in the r
 Users without a Mathematica desktop license can view the file using the freely available Wolfram player (https://www.wolfram.com/player/).
 Alternatively, obtaining a free 'Basic' Wolfram cloud account (https://www.wolframcloud.com/).
 With the Basic Plan, users can copy the codes from Player to the cloud notebook for execution, or simply log in and then
-access the published version of this code on the Wolfram Cloud, available at https://www.wolframcloud.com/obj/saheedka/Published/CPM.nb.
+access the published version of this code on the Wolfram Cloud, available at https://www.wolframcloud.com/obj/2f00cfa2-4a12-4129-ad41-b98887cd3bbf.
 Making a personal copy of the codes allows a user to run the code on the Woldfram Cloud computing platform
